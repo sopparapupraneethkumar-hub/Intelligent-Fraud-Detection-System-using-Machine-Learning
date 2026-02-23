@@ -1,9 +1,9 @@
 # Intelligent-Fraud-Detection-System-using-Machine-Learning
 An end-to-end machine learning system for detecting fraudulent financial transactions using Logistic Regression, Random Forest, and XGBoost with ROC-AUC evaluation and threshold tuning.
 
-)
+
 📌 Intelligent Fraud Detection System
-📖 Overview
+Overview
 
 This project presents an end-to-end machine learning system designed to detect fraudulent financial transactions. The objective is to build a robust and explainable fraud detection pipeline that balances predictive performance with real-world business considerations such as minimizing financial loss and reducing customer inconvenience.
 
